@@ -1,1 +1,1 @@
-# donate
+# Support the developer
